@@ -11,7 +11,7 @@ I like coding and coding-related subjects
   * Python
   * C/C++/C#
   * Java
-  * HTML/JS/CSS
+  * HTML/(React)JS/CSS
   * Bash
 - ⚡ Fun fact:
   * I like pentesting and security
