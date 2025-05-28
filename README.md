@@ -1,4 +1,4 @@
-# Blake Staniland
+# About:
 ## Hi, I'm Blake! 👋
 I am a student at SPCC
 
