@@ -1,4 +1,4 @@
-# About:
+# About Me:
 ## Hi, I'm Blake! 👋
 I am a student at SPCC
 
