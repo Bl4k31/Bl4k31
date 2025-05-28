@@ -1,7 +1,5 @@
 # Blake Staniland
-## Hi there 👋
-
-Hi, I'm Blake!
+## Hi, I'm Blake! 👋
 I am a student at SPCC
 
 I like coding and coding-related subjects
