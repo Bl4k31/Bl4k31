@@ -1,4 +1,4 @@
-# BlakeStaniland
+# Blake Staniland
 ## Hi there 👋
 
 Hi, I'm Blake!
