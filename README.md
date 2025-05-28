@@ -1,20 +1,30 @@
+# BlakeStaniland
 ## Hi there 👋
+
+Hi, I'm Blake!
+I am a student at SPCC
+
+I like coding and coding-related subjects
 - 🔭 I’m currently working on:
   * A chat system written in bash
   * Small miscellaneous snippets of code
   * A Python calculator with a Tk-based UI
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning/have learnt:
   * Python
   * C/C++/C#
   * Java
   * HTML/JS/CSS
   * Bash
-- 💬 Ask me about:
-  * Coding
-- 📫 How to reach me:
-  * Not gonna share this yet
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
   * I like pentesting and security
+I am learning:
+<p><b>
+  <li>React JS</li>
+  <li>C#</li>
+</b></p>
+I hope to become a full-stack developer at some point
+
+I only work on small projects occasionally (for now).
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
