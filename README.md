@@ -1,10 +1,21 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on:
+  * A chat system written in bash
+  * Small miscellaneous snippets of code
+  * A Python calculator with a Tk-based UI
+- 🌱 I’m currently learning:
+  * Python
+  * C/C++/C#
+  * Java
+  * HTML/JS/CSS
+  * Bash
+- 💬 Ask me about:
+  * Coding
+- 📫 How to reach me:
+  * Not gonna share this yet
+- ⚡ Fun fact: ...
+  * I like pentesting and security
 <!--
-**Bl4k31/Bl4k31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
