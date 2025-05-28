@@ -15,11 +15,7 @@ I like coding and coding-related subjects
   * Bash
 - ⚡ Fun fact:
   * I like pentesting and security
-I am learning:
-<p><b>
-  <li>React JS</li>
-  <li>C#</li>
-</b></p>
+
 I hope to become a full-stack developer at some point
 
 I only work on small projects occasionally (for now).
